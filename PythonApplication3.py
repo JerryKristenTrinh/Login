@@ -8,6 +8,7 @@ mk_kt = "123456"
 cheat = "█¶◙è"
 
 ran = random.uniform(0.01, 0.4)
+st.title("████████████████████████████████████████████████████")
 st.title("Login your account")
 
 kiem = st.text_input("Câu lệnh:")
